@@ -1,0 +1,15 @@
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\bin\Debug\prueba clases proyecto visual.exe.config
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\bin\Debug\prueba clases proyecto visual.exe
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\bin\Debug\prueba clases proyecto visual.pdb
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\bin\Debug\prueba clases proyecto visual.xml
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba clases proyecto visual.vbproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba_clases_proyecto_visual.Form1.resources
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba_clases_proyecto_visual.FormCliente.resources
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba_clases_proyecto_visual.FormEmpleado.resources
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba_clases_proyecto_visual.Resources.resources
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba_clases_proyecto_visual.PORTADA.resources
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba clases proyecto visual.vbproj.GenerateResource.cache
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba clases proyecto visual.vbproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba clases proyecto visual.exe
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba clases proyecto visual.xml
+C:\Users\Emilia\Desktop\PROGRAMACION VISUAL\prueba clases proyecto visual\prueba clases proyecto visual\obj\Debug\prueba clases proyecto visual.pdb
